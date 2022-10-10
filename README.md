@@ -11,8 +11,20 @@
 ### - Python is Free
 - Python is a programming language which is free of charge and open.
 ---
- ### what is a string
+### What is a variable
 - It is used to store data
+- A reserved memory location to store values
+
+An example
+```doctest
+first_name = "zakarie"
+last_name = "hassan"
+salary = 50
+travel = 3.5
+```
+
+ ### what is a string
+
 - A string in Python is a sequence of characters.
 
 An example:
