@@ -10,3 +10,24 @@
 - Python is an easily readable and simple to understand language for developers who have never written a code in it. As a result, the community of Python users are continuously evolving and growing.
 ### - Python is Free
 - Python is a programming language which is free of charge and open.
+---
+ ### what is a string
+- It is used to store data
+- A string in Python is a sequence of characters.
+
+An example:
+``first_name = "zakarie" #string``
+ ### what is an integer
+ - An integer is a whole number, positive or negative, without decimals, of unlimited length.
+
+ - An example
+``salary = 50 #integer``
+
+### What is a float
+- Float, or "floating point number" is a number, positive or negative, containing one or more decimals.
+
+An example
+``travel = 3.5 #float``
+
+### What is a boolean
+- Boolean values are the values True or False in Python.
