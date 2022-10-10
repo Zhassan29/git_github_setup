@@ -31,3 +31,22 @@ An example
 
 ### What is a boolean
 - Boolean values are the values True or False in Python.
+
+---
+## Github setup
+Generate ssh key
+```doctest
+cd /c/Users/stron
+cd .ssh
+ssh-keygen -t rsa -b 4096 -C "(your_email")
+```
+
+Create a repository on GitHub and follow the steps to connect to Pycharm
+```doctest
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin "git@github:[username]/[repository].git"
+git push -u origin main
+```
