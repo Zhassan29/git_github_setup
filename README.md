@@ -48,10 +48,11 @@ An example
 ## Github setup
 Generate ssh key
 ```doctest
-cd /c/Users/stron
+cd /c/Users/zak
 cd .ssh
 ssh-keygen -t rsa -b 4096 -C "(your_email")
 ```
+Add SSH public key to Github account. read SSH key by copying the public key
 
 Create a repository on GitHub and follow the steps to connect to Pycharm
 ```doctest
