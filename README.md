@@ -63,3 +63,11 @@ git branch -M main
 git remote add origin "git@github:[username]/[repository].git"
 git push -u origin main
 ```
+#### Git & Github
+- add changes to our Git-hub repo -the changes that we made on localhost
+
+-``git add filenames`` or ``git add .`` , means push everything from current location
+- ``git commit -m "new markdown guide added"``
+- now lets send this new data to Github
+- ``git push -u origin main``
+- ``git status``
