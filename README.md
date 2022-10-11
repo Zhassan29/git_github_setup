@@ -119,3 +119,25 @@ concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 ```
+---
+
+### Intro to Data types & operators
+- `+ - *`
+
+###### Comparison operators
+- `>` greater than
+- `<` less than
+- `==` true or false
+- `>=` greater than or equal
+- `<=` less than or equal
+
+```doctest
+a = 24
+b = 16
+
+print(a + b) # outcome added value of a & b
+print(a - b) # outcome -a from b
+# comparison
+print(a > b) # true
+print(a < b) # false
+```
