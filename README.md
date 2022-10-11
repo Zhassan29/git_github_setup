@@ -71,3 +71,4 @@ git push -u origin main
 - now lets send this new data to Github
 - ``git push -u origin main``
 - ``git status``
+- add ``gitignore`` then ``add all dependencies in this file to ensure not pushed``
