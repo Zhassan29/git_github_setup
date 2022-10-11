@@ -194,7 +194,7 @@ print(len(white_space))
 print(len(white_space.strip())) # this will remove all the white spaces at the end
 print(print(len(white_space)))
 
-Example_text = "shahrukh here's sOme text with lOt's of text"
+Example_text = "zakarie here's sOme text with lOt's of text"
 # print(Example_text.count("text"))
 print(Example_text)
 print(Example_text.lower())
