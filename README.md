@@ -274,3 +274,20 @@ print(student_1["completed_lessons_names"])
 print(student_1["completed_lessons_names"][0])
 
 ```
+
+```doctest
+student_1["completed_lessons"] = 3
+print(student_1["completed_lessons"])
+
+# delete an item from the list of completed_lesson_names
+student_1["completed_lessons_names"].remove("strings")
+print(student_1["completed_lessons_names"])
+
+# dict builtin methods
+# display keys only or values
+# keys() values()
+print(student_1.keys())
+
+# display values only from student_1
+print(student_1.values())
+```
