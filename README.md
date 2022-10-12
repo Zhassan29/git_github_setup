@@ -286,6 +286,8 @@ print(student_1["completed_lessons_names"])
 # dict builtin methods
 # display keys only or values
 # keys() values()
+
+# displays keys only from student_1
 print(student_1.keys())
 
 # display values only from student_1
